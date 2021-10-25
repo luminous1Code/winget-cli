@@ -10,7 +10,7 @@ The packages available to the client are in the [Community repo](https://github.
 
 ## Installing the client
 
-> The client requires Windows 10 1809 (build 17763) or later at this time.
+> The client requires Windows 10 1809 (build 17763) or later at this time...
 
 ### Microsoft Store [Recommended]
 
