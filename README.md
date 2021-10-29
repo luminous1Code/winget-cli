@@ -125,4 +125,4 @@ The winget.exe client respects machine wide privacy settings and users can opt-o
 
 In short to opt-out, go to `Start`, then select `Settings` > `Privacy` > `Diagnostics & feedback`, and select `Basic`. 
 
-See the [privacy statement](privacy.md) for more details.
+See the [privacy statement](privacy.md) for more details...
