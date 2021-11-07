@@ -1,4 +1,4 @@
-# Welcome to the Windows Package Manager Client (aka winget.exe) repository
+# Welcome to the Windows Package Manager Client (aka winget.exe) repository...
 
 This repository contains the source code for the Windows Package Manager Client (aka winget.exe).
 
